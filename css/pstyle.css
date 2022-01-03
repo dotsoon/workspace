@@ -1,0 +1,31 @@
+
+html {
+    font-size:12px;
+    font-family:'나눔고딕코딩';
+    line-height:2;
+}
+
+.로그인{
+    width:500px;
+    height:300px;
+    border:2px solid goldenrod;
+    margin:50px;
+    padding:50px;
+}
+
+.게시글{
+    width:500px;
+    height:300px;
+    border:2px solid goldenrod;
+    margin:50px;
+    padding:50px;
+}
+
+
+.글작성{
+    width:500px;
+    height:450px;
+    border:2px solid goldenrod;
+    margin:50px;
+    padding:50px;
+}

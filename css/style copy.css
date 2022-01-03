@@ -1,0 +1,49 @@
+header{
+    background-color:rgb(137, 139, 218);
+    color:whitesmoke;
+}
+
+.title {
+    display:inline;
+}
+.list{
+    display:inline;
+    position:absolute;
+    right:20px;
+    bottom:25px;
+    text-align:right;
+}
+.list-item{
+    display:inline-block;
+    width:300px;
+    font-size: 30px;
+    text-transform:uppercase;
+}
+.container{
+    position:relative;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.span{
+    position:absolute;
+    top:50px;
+    left:180px;
+}
+
+#column1 {
+    float:left;
+    width:30%;
+}
+.column2 {
+    float:left;
+    width:30%;
+}
+.column3 {
+    float:left;
+    width:30%;
+}
+.footer{
+    clear:left;
+}

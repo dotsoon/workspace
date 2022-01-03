@@ -1,0 +1,35 @@
+
+
+html {
+    font-size:20px;
+    font-family:'나눔고딕코딩', '굴림체', 'serif', 'sans-serif';
+    line-height:1.5;
+    color:green;
+    background-color:black;
+}
+
+h2{
+    color:white;
+}
+
+#column1 {
+    color:yellowgreen;
+}
+
+.footer {
+    color:violet;
+}
+
+div h2{
+    color:blue;
+}
+
+#column1 > h2 {
+    color: yellow;
+}
+
+.column3{
+    border:5px solid goldenrod;
+    margin:50px;
+    padding:50px;
+}
